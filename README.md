@@ -12,9 +12,10 @@ Toward an Interpretable Alzheimer's Disease Diagnostic Model with Regional Abnor
 - We pretrined our network with greedy layer-wise pretraining by first constructing stacked denoising auto-encoders (SDAEs) Vincent et al., 2010).
 
 ## Result
-- We showed an accuracy of 89.22% for MCI vs. CN classification and an accuracy of 88.52% for pMCI vs. sMCI classification tasks.
+- We showed an accuracy of 89.22% for mild cognitive impairment (MCI) vs. cognitive normal (CN) classification and an accuracy of 88.52% for progressive MCI (pMCI) vs. stable MCI (sMCI) classification tasks.
 
 ## Example of regional abnormality map
+![image](https://user-images.githubusercontent.com/28587809/49800475-f1de6c00-fd8a-11e8-80c9-7b40e5b34212.png)
 
 
 
