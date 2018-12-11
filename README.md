@@ -14,5 +14,6 @@ used toolbox
 
 
 preparation data 
+
 	Used converted MRI (from .nii or .img to .mat)
 	Used template Kabani's atlas (Kabani, N. J., 1998. 3D anatomical atlas of the human brain. NeuroImage 7, P–0717.)
