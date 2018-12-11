@@ -14,7 +14,7 @@ Toward an Interpretable Alzheimer's Disease Diagnostic Model with Regional Abnor
 ## Result
 - We showed an accuracy of 89.22% for mild cognitive impairment (MCI) vs. cognitive normal (CN) classification and an accuracy of 88.52% for progressive MCI (pMCI) vs. stable MCI (sMCI) classification tasks.
 
-## Example of regional abnormality map
+## Example of individual regional abnormality map
 ![image](https://user-images.githubusercontent.com/28587809/49800475-f1de6c00-fd8a-11e8-80c9-7b40e5b34212.png)
 
 
