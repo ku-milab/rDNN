@@ -6,7 +6,7 @@
 Toward an Interpretable Alzheimer's Disease Diagnostic Model with Regional Abnormality Representation via Deep Learning
 
 
-
+## Purpose
 - We proposed a network that provides deep learning-based diagnosis and interpretability for Alzheimer's disease.
 - We used a 1.5-T T1-weighted MRI dataset with images from 801 subjects from the ADNI (Alzheimer's Disease Neuroimaging Initiative).
 - We pretrined our network with greedy layer-wise pretraining by first constructing stacked denoising auto-encoders (SDAEs) Vincent et al., 2010).
