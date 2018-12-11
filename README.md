@@ -9,7 +9,7 @@ Toward an Interpretable Alzheimer's Disease Diagnostic Model with Regional Abnor
 ## Model description
 - We proposed a network that provides deep learning-based diagnosis and interpretability for Alzheimer's disease.
 - We used a 1.5-T T1-weighted MRI dataset with images from 801 subjects from the ADNI (Alzheimer's Disease Neuroimaging Initiative).
-- We constructed a neural network to represent the abnormality of each region for each subspace.
+- We constructed a neural network to represent the abnormality of each subspace for each region.
 - We pretrained neural network with greedy layer-wise pretraining by first constructing stacked denoising auto-encoders (SDAEs) (Vincent et al., 2010).
 - The represented abnormality is finally classified by the SVM.
 
