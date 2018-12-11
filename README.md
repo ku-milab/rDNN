@@ -1,7 +1,5 @@
 # rDNN
 
-README
-
 Title : Toward an Interpretable Alzheimer's Disease Diagnostic Model with Regional Abnormality Representation via Deep Learning
 
 Implemented by MATLAB(R2017a)
