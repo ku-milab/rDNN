@@ -8,7 +8,7 @@ Implemented by MATLAB(R2017a)
 
 
 used toolbox
-	DeepLearnToolbox (https://github.com/rasmusbergpalm/DeepLearnToolbox)
+	DeepLearnToolbox (https://github.com/rasmusbergpalm/DeepLearnToolbox)\n
 	LIBSVM v3.21(https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 
