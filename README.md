@@ -19,7 +19,7 @@ Toward an Interpretable Alzheimer's Disease Diagnostic Model with Regional Abnor
 ## Example of individual regional abnormality map
 - The closer to red, the greater the degree of abnormality (from a model perspective).
 
-![image](https://user-images.githubusercontent.com/28587809/49800475-f1de6c00-fd8a-11e8-80c9-7b40e5b34212.png)
+![image](https://user-images.githubusercontent.com/28587809/49801984-0a508580-fd8f-11e8-8917-ad5a798b1788.png)
 
 
 
